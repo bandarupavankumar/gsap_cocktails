@@ -19,13 +19,7 @@
     This project demonstrates advanced scroll-based animations, cinematic transitions, and smooth UI interactions.
   </p>
 
-  <p align="center">
-    🎥 Built by following the JavaScript Mastery tutorial on YouTube  
-    <br />
-    <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank">
-      <b>JavaScript Mastery Channel</b>
-    </a>
-  </p>
+  
 </div>
 
 ---
@@ -97,3 +91,4 @@ npm install
 
 # Start development server
 npm run dev
+

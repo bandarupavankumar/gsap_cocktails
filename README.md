@@ -65,17 +65,6 @@
 👉 Seamless animation timelines across sections  
 👉 Fully responsive design across all devices  
 
----
-
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|-------------|-------------|
-| ![](public/readme/desktop.png) | ![](public/readme/mobile.png) |
-
-> 📌 Replace images with your actual screenshots for best impact.
-
----
 
 ## 🛠️ Installation & Setup
 
@@ -91,4 +80,5 @@ npm install
 
 # Start development server
 npm run dev
+
 

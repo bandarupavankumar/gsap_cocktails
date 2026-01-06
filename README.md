@@ -66,7 +66,7 @@
 👉 Fully responsive design across all devices  
 
 ---
----
+
 ## 🛠️ Installation & Setup
 
 ```bash
@@ -81,6 +81,7 @@ npm install
 
 # Start development server
 npm run dev
+
 
 
 

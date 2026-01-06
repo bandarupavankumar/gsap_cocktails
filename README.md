@@ -19,8 +19,6 @@
     Designed to showcase advanced scroll-driven animations, cinematic storytelling, and modern UI/UX.
   </p>
 
-  <p align="center">
-    📺 Built by following the JavaScript Mastery tutorial —
-    <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Watch on YouTube</b></a>
-  </p>
+ 
 </div>
+
